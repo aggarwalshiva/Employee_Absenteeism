@@ -11,10 +11,16 @@ Data Set :
 2) test.zip
 
 Number of attributes:
+
 · pickup_datetime - timestamp value indicating when the cab ride started.
+
 · pickup_longitude - float for longitude coordinate of where the cab ride started.
+
 · pickup_latitude - float for latitude coordinate of where the cab ride started.
+
 · dropoff_longitude - float for longitude coordinate of where the cab ride ended.
+
 · dropoff_latitude - float for latitude coordinate of where the cab ride ended.
+
 · passenger_count - an integer indicating the number of passengers in the cab
 ride.
